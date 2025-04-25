@@ -3,7 +3,7 @@
 Maintainable and documented fullstack applications.
 
 - Angular 19 with SSR, SEO, PWA, Bootstrap
-- Node.js backends (CommonJS, ESM), Express, PostgreSQL
+- Node.js backends (CommonJS, ESM), Express, PostgreSQL, MySQL
 - Java 21, Spring, Spring Boot, REST APIs
 - Modular architecture with unit, integration, and e2e tests
 - Deployment with Docker, GitHub Actions, OpenShift
