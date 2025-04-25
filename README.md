@@ -1,4 +1,4 @@
-<img src="./ui/ganatan-about-github.png" align="right" width="140" height="140" alt="logo ganatan">
+<img src="./ui/ganatan-about-github.png" align="right" width="70" height="70" alt="logo ganatan">
 
 # Angular, Node.js, Java
 
