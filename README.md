@@ -1,3 +1,5 @@
+<img src="./ui/ganatan-about-github.png" align="right" width="140" height="140" alt="logo ganatan">
+
 # Angular, Node.js, Java
 
 Maintainable and documented fullstack applications.
@@ -8,11 +10,3 @@ Maintainable and documented fullstack applications.
 - Modular architecture with unit, integration, and e2e tests
 
 Starters, examples, and ready-to-use project structures.
-
-
----
-
-<img src="./ui/ganatan-about-github.png" align="right" width="140" height="140" alt="logo ganatan">
-
-
----
