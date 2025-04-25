@@ -1,7 +1,5 @@
 # Angular, Node.js, Java
-<p align="right">
-  <img src="./ui/ganatan-about-github.png" width="120" alt="logo ganatan">
-</p>
+<img src="./ui/ganatan-about-github.png" align="right" width="70" height="70" alt="logo ganatan">
 
 Fullstack architecture with documented and maintainable examples.
 
