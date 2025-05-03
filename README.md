@@ -7,12 +7,13 @@
 
 ### 🧩 What I Build
 
-- **Frontend**: Angular 19 with SSR, SEO, PWA, Bootstrap  
-- **Backend Node.js**: JavaScript (ESM / CommonJS) • TypeScript + Express • PostgreSQL / MySQL / Mocked data  
-- **Backend Java**: Java 21, Spring, Spring Boot  
-- **Docker**: Dockerized projects with images available on [Docker Hub](https://hub.docker.com/u/ganatan)  
+
+- Frontend with **Angular 19** (SSR, SEO, PWA, Bootstrap)
+- Backends in **Node.js / TypeScript / Java 21** — modular, RESTful
+- Compatible with **PostgreSQL, MySQL, mock data**
+- Dockerized apps + [images on Docker Hub](https://hub.docker.com/u/ganatan)
+- Full open source examples: [angular-app](https://github.com/ganatan/angular-app)
 - **📚 Tutorials**: Step-by-step guides at [ganatan.com/tutorials](https://www.ganatan.com/tutorials)  
-- **➡️ Main repository**: [github.com/ganatan/angular-app](https://github.com/ganatan/angular-app)
 
 ## 📊 GitHub Stats
 
