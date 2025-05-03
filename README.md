@@ -17,5 +17,4 @@
 ## 📊 GitHub Stats
 
 ![Total Stars](https://img.shields.io/badge/Total%20Stars-1.5k-blue?style=flat-square&logo=github)
-![Forks](https://img.shields.io/github/forks/ganatan/angular-app?label=Forks&style=flat-square&logo=github)
 ![Total Commits](https://img.shields.io/badge/Total%20Commits%20(2025)-976-blue?style=flat-square&logo=git)
