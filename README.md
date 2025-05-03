@@ -1,3 +1,8 @@
+<h2 align="center">Hi, I'm Danny 👋</h2>
+
+[![Follow me on GitHub](https://img.shields.io/github/followers/ganatan?style=social)](https://github.com/stefanoslig)
+[![Linkedin network](https://img.shields.io/badge/LinkedIn-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/dannyganatan)
+
 <img src="./ui/ganatan-about-github.png" align="right" width="70" height="70" alt="logo ganatan">
 
 ### 🚀 Fullstack Architecture — Code + Demos
