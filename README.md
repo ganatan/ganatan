@@ -8,12 +8,6 @@
   - TypeScript + Express  
   - PostgreSQL / MySQL / Mocked data  
 - **Backend Java**: Java 21, Spring, Spring Boot — Modern REST APIs  
-- **Docker**: Dockerized projects with images available on Docker Hub  
+- **Docker**: Dockerized projects with images available on [Docker Hub](https://hub.docker.com/u/ganatan).
 - **📚 Tutorials**: Step-by-step guides at [ganatan.com/tutorials](https://www.ganatan.com/tutorials)
-
----
-
-### 🔗 Get Involved
-
-➡️ Main repository: [github.com/ganatan/angular-app](https://github.com/ganatan/angular-app)  
-➡️ Live demos, CI/CD setup, `npm` scripts, deployment with or without Docker [Docker Hub](https://hub.docker.com/u/ganatan).
+- **➡️ Main repository**: [github.com/ganatan/angular-app](https://github.com/ganatan/angular-app)  
