@@ -3,8 +3,7 @@
 ### 🚀 Fullstack Architecture — Code + Demos
 
 - **Frontend**: Angular 19 with SSR, SEO, PWA, Bootstrap  
-- **Backend Node.js**:  
-  - JavaScript (ESM / CommonJS) • TypeScript + Express • PostgreSQL / MySQL / Mocked data  
+- **Backend Node.js**: JavaScript (ESM / CommonJS) • TypeScript + Express • PostgreSQL / MySQL / Mocked data  
 - **Backend Java**: Java 21, Spring, Spring Boot
 - **Docker**: Dockerized projects with images available on [Docker Hub](https://hub.docker.com/u/ganatan).
 - **📚 Tutorials**: Step-by-step guides at [ganatan.com/tutorials](https://www.ganatan.com/tutorials)
