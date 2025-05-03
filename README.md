@@ -17,5 +17,4 @@
 
 ## 📊 GitHub Stats
 
-![Total Stars](https://img.shields.io/badge/Total%20Stars-1.5k-lightgray?style=flat-square&logo=github)
-![Total Commits](https://img.shields.io/badge/Total%20Commits%20(2025)-976-lightgray?style=flat-square&logo=git)
+![Total Stars](https://img.shields.io/badge/Total%20Stars-1.5k-lightgray?style=flat-square&logo=github) ![Total Commits](https://img.shields.io/badge/Total%20Commits%20(2025)-976-blue?style=flat-square&logo=git)
