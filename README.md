@@ -8,3 +8,8 @@
 - **Docker**: Dockerized projects with images available on [Docker Hub](https://hub.docker.com/u/ganatan).
 - **📚 Tutorials**: Step-by-step guides at [ganatan.com/tutorials](https://www.ganatan.com/tutorials)
 - **➡️ Main repository**: [github.com/ganatan/angular-app](https://github.com/ganatan/angular-app)  
+
+## 📊 GitHub Stats
+
+![Total Stars](https://img.shields.io/badge/Total%20Stars%20Earned-1.5k-blue?style=flat-square&logo=github)
+![Total Commits](https://img.shields.io/badge/Total%20Commits%20(2025)-976-blue?style=flat-square&logo=git)
