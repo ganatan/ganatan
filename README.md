@@ -13,9 +13,7 @@
 
 
 - Frontend with **Angular 19** (SSR, SEO, PWA, Bootstrap)
-- Backends in **Node.js / TypeScript / Java 21** — modular, RESTful
-- Compatible with **PostgreSQL, MySQL, mock data**
-- Dockerized apps + [images on Docker Hub](https://hub.docker.com/u/ganatan)
-- Full open source examples: [angular-app](https://github.com/ganatan/angular-app)
+- Backends in **Node.js / TypeScript / Java 21** — modular, RESTful - Compatible with **PostgreSQL, MySQL, mock data**
+- Dockerized apps + [images on Docker Hub](https://hub.docker.com/u/ganatan) & Full open source examples: [angular-app](https://github.com/ganatan/angular-app)
 - **📚 Tutorials**: Step-by-step guides at [ganatan.com/tutorials](https://www.ganatan.com/tutorials)  
 
