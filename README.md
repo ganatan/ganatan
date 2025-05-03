@@ -15,6 +15,4 @@
 - Full open source examples: [angular-app](https://github.com/ganatan/angular-app)
 - **📚 Tutorials**: Step-by-step guides at [ganatan.com/tutorials](https://www.ganatan.com/tutorials)  
 
-## 📊 GitHub Stats
-
-![Total Stars](https://img.shields.io/badge/Total%20Stars-1.5k-lightgray?style=flat-square&logo=github) ![Total Commits](https://img.shields.io/badge/Total%20Commits%20(2025)-976-blue?style=flat-square&logo=git)
+**📊 GitHub Stats** — ![Total Stars](https://img.shields.io/badge/Stars-1.5k-lightgrey?style=flat-square&logo=github) ![Commits](https://img.shields.io/badge/Commits%20(2025)-976-lightgrey?style=flat-square&logo=git)
