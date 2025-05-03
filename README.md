@@ -1,12 +1,4 @@
-<p align="center">
-  <img src="https://www.ganatan.com/assets/images/logo.png" alt="Ganatan Logo" width="120"/>
-</p>
-
-<h2 align="center">Fullstack Angular, Node.js & Java</h2>
-
-<p align="center"><strong>Source code, demos and tutorials available on the repo 👉 <a href="https://github.com/ganatan/angular-app">angular-app</a></strong></p>
-
----
+<img src="./ui/ganatan-about-github.png" align="right" width="70" height="70" alt="logo ganatan">
 
 ### 🚀 Fullstack Architecture — Code + Demos
 
