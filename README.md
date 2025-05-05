@@ -1,6 +1,3 @@
-<h2 align="center">Hi, I'm Danny 👋</h2>
-
-
 <img src="./ui/ganatan-about-github.png" align="right" width="70" height="70" alt="logo ganatan">
 
 [![GitHub ganatan](https://img.shields.io/github/followers/ganatan?label=follow&style=social)](https://github.com/ganatan)
