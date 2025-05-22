@@ -4,7 +4,7 @@
 [![LinkedIn - Danny Collodet](https://img.shields.io/badge/LinkedIn-Danny-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/dannyganatan)
 
 ![Total Stars](https://img.shields.io/badge/Total%20Stars-1.5k-blue?style=flat-square&logo=github)
-![Total Commits](https://img.shields.io/badge/Total%20Commits%20(2025)-757-blue?style=flat-square&logo=git)
+![Total Commits](https://img.shields.io/badge/Total%20Commits%20(2025)-792-blue?style=flat-square&logo=git)
 
 ### 🧩 What I Build
 
