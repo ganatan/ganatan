@@ -8,5 +8,5 @@
 - 🔧 Frontend with **Angular 19** (SSR, SEO, PWA, Bootstrap)  
 - 🗂️ Backends in **Node.js / TypeScript / Java 21** — with **PostgreSQL, MySQL, mock data**  
 - 📦 Dockerized apps + [images on Docker Hub](https://hub.docker.com/u/ganatan) & full examples: [angular-app](https://github.com/ganatan/angular-app)  
-- 🧭 **Tutorials**: step-by-step guides available in [French](https://www.ganatan.com/tutorials) and [English](https://www.ganatan.com/en/tutorials)
+- 🧭 **Tutorials**: step-by-step guides available in [English](https://www.ganatan.com/en/tutorials) and [French](https://www.ganatan.com/tutorials)
 
