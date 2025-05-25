@@ -1,4 +1,6 @@
-<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
+<img src="./ui/ganatan-about-github.png" align="right" width="70" height="70" alt="logo ganatan">
+
+
   <div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
     <div style="display: flex; align-items: center; gap: 10px;">
       <a href="https://github.com/ganatan">
@@ -14,8 +16,6 @@
     </div>
   </div>
 
-  <img src="./ui/ganatan-about-github.png" width="70" height="70" alt="logo ganatan">
-</div>
 
 - Frontend with **Angular 19** (SSR, SEO, PWA, Bootstrap)
 - Backends in **Node.js / TypeScript / Java 21** — with **PostgreSQL, MySQL, mock data**
