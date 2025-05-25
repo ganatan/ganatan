@@ -3,8 +3,6 @@
 [![GitHub ganatan](https://img.shields.io/github/followers/ganatan?label=GitHub&style=social)](https://github.com/ganatan)
 [![LinkedIn - Danny Collodet](https://img.shields.io/badge/LinkedIn-Danny-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/dannyganatan)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
 ![Total Stars](https://img.shields.io/badge/★%20Stars-1.5k-blue?style=flat-square&logo=github)
 ![Total Commits](https://img.shields.io/badge/⎇%20Commits%20(2025)-808-blue?style=flat-square&logo=git)
 
