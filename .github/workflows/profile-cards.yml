@@ -16,7 +16,7 @@ jobs:
       - uses: actions/checkout@v3
         with:
           ref: master
-      - uses: vn7n24fzkq/github-profile-summary-cards@0.6.1
+      - uses: vn7n24fzkq/github-profile-summary-cards@main
         with:
           USERNAME: ganatan
           THEME: transparent
