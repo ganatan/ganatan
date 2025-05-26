@@ -3,7 +3,7 @@
 [![GitHub - ganatan](https://img.shields.io/github/followers/ganatan?label=GitHub&style=social)](https://github.com/ganatan)
 [![LinkedIn - Danny Collodet](https://img.shields.io/badge/LinkedIn-Danny-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/dannyganatan)
 ![GitHub Stars](https://img.shields.io/badge/★%20Stars-1.6k-blue?style=flat-square&logo=github)
-![Commits Last Year](https://img.shields.io/badge/Commits-1142-blue?style=flat-square&logo=git)
+![Commits Last Year](https://img.shields.io/badge/Commits-1145-blue?style=flat-square&logo=git)
 
 - 🧑‍💻 Hello, I'm Danny, focused on software craftsmanship
 - 🔧  I'm working with **Angular 19** & **Node.js / TypeScript / Java 21** 
