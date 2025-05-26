@@ -3,6 +3,10 @@ name: GitHub Profile Summary Cards
 on:
   schedule:
     - cron: '0 0 * * *'
+  push:
+    branches: [master]
+  pull_request:
+    branches: [master]
   workflow_dispatch:
 
 jobs:
