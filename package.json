@@ -1,0 +1,21 @@
+{
+  "name": "200-ganatan-profile",
+  "version": "1.0.0",
+  "description": "<img src=\"./ui/ganatan-about-github.png\" align=\"right\" width=\"70\" height=\"70\" alt=\"logo ganatan\">",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ganatan/ganatan.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ganatan/ganatan/issues"
+  },
+  "homepage": "https://github.com/ganatan/ganatan#readme"
+}
