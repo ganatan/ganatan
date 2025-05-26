@@ -8,4 +8,6 @@
 - 📦 Dockerized apps + [on Docker Hub](https://hub.docker.com/u/ganatan) 
 - 🧭 **Tutorials**: guides available in [English](https://www.ganatan.com/en/tutorials) and [French](https://www.ganatan.com/tutorials)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ganatan&theme=default)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ganatan&theme=transparent)
+
