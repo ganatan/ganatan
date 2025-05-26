@@ -4,8 +4,7 @@
 ![GitHub Stars](https://img.shields.io/badge/★%20Stars-1.6k-blue?style=flat-square&logo=github)
 ![Commits Last Year](https://img.shields.io/badge/Commits-1145-blue?style=flat-square&logo=git)
 
-- 🧑‍💻 Hello, I'm **Danny**, a fullstack developer  
-  I'm focused on **software craftsmanship**
+- 🧑‍💻 Hello, I'm **Danny**, a fullstack web developer focused on **software craftsmanship**
 - 🔧 I work with **Angular 19** & **Node.js / TypeScript / Java 21**
 - 📦 Dockerized apps available [on Docker Hub](https://hub.docker.com/u/ganatan)
 - 🧭 **Tutorials**: [English](https://www.ganatan.com/en/tutorials) · [Français](https://www.ganatan.com/tutorials)
