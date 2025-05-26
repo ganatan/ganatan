@@ -7,7 +7,7 @@
 - 🧑‍💻 Hello, I'm **Danny**, a fullstack web developer focused on **software craftsmanship**
 - 🔧 I work with **Angular 19** & **Node.js / TypeScript / Java 21**
 - 📦 Dockerized apps available [on Docker Hub](https://hub.docker.com/u/ganatan)
-- 🧭 **Tutorials**: [English](https://www.ganatan.com/en/tutorials) · [Français](https://www.ganatan.com/tutorials)
+- 🧭 **Tutorials**: guides available in [English](https://www.ganatan.com/en/tutorials) and [French](https://www.ganatan.com/tutorials)
 - 📫 How to reach me:  
   [LinkedIn](https://www.linkedin.com/in/dannyganatan) ·  
   [dannyganatan@gmail.com](mailto:dannyganatan@gmail.com) ·  
