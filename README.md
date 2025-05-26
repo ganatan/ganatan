@@ -8,7 +8,4 @@
 - 🔧 I work with **Angular 19** & **Node.js / TypeScript / Java 21**
 - 📦 Dockerized apps available [on Docker Hub](https://hub.docker.com/u/ganatan)
 - 🧭 **Tutorials**: guides available in [English](https://www.ganatan.com/en/tutorials) and [French](https://www.ganatan.com/tutorials)
-- 📫 How to reach me:  
-  [LinkedIn](https://www.linkedin.com/in/dannyganatan) ·  
-  [dannyganatan@gmail.com](mailto:dannyganatan@gmail.com) ·  
-  [danny@ganatan.com](mailto:danny@ganatan.com)
+- 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/dannyganatan)
