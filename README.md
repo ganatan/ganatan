@@ -8,5 +8,5 @@
 - 🔧 Frontend with **Angular 19** 
 - 🗂️ Backends in **Node.js / TypeScript / Java 21** 
 - 📦 Dockerized apps + [on Docker Hub](https://hub.docker.com/u/ganatan) 
-- 🧭 **Tutorials**: available in [English](https://www.ganatan.com/en/tutorials) and [French](https://www.ganatan.com/tutorials)
+- 🧭 **Tutorials**: guides available in [English](https://www.ganatan.com/en/tutorials) and [French](https://www.ganatan.com/tutorials)
 
