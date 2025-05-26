@@ -5,7 +5,7 @@
 ![GitHub Stars](https://img.shields.io/badge/★%20Stars-1.6k-blue?style=flat-square&logo=github)
 ![Commits Last Year](https://img.shields.io/badge/Commits-1145-blue?style=flat-square&logo=git)
 
-- 🧑‍💻 Hello, I'm Danny, focused on software craftsmanship
+- 🧑‍💻 Hello, I'm **Danny**, focused on software craftsmanship
 - 🔧  I'm working with **Angular 19** & **Node.js / TypeScript / Java 21** 
 - 📦 Dockerized apps [on Docker Hub](https://hub.docker.com/u/ganatan) 
 - 🧭 **Tutorials**: guides available in [English](https://www.ganatan.com/en/tutorials) and [French](https://www.ganatan.com/tutorials)
