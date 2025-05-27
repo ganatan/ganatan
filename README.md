@@ -1,8 +1,8 @@
 <img src="./ui/ganatan-about-github.png" align="right" width="70" height="70" alt="logo ganatan">
 
-![GitHub Followers](https://img.shields.io/badge/Followers-492-blue?style=flat-square&logo=github)
+![GitHub Followers](https://img.shields.io/badge/Followers-432-blue?style=flat-square&logo=github)
 ![GitHub Stars](https://img.shields.io/badge/★%20Stars-1.6k-blue?style=flat-square&logo=github)
-![Commits Last Year](https://img.shields.io/badge/Commits-1161-blue?style=flat-square&logo=git)
+![Commits Last Year](https://img.shields.io/badge/Commits-1170-blue?style=flat-square&logo=git)
 
 - 🧑‍💻 Hello, I'm **Danny**, a fullstack web developer focused on **software craftsmanship**
 - 🔧 I work with **Angular 19** & **Node.js / TypeScript / Java 21**
