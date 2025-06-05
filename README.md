@@ -15,4 +15,4 @@
 - 📘 Tutorials: [English](https://www.ganatan.com/en/tutorials) • [Français](https://www.ganatan.com/tutorials)
 - 📬 Contact: [LinkedIn](https://www.linkedin.com/in/dannyganatan)
 
-**📅 Dispo pour missions freelance Angular / Node.js / Java à partir de septembre 2025**
+**📅 Freelance – Angular / Node / Java – Available Sept 2025**
