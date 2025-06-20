@@ -2,7 +2,7 @@
 
 ![GitHub Followers](https://img.shields.io/badge/Followers-434-blue?style=flat-square&logo=github)
 ![GitHub Stars](https://img.shields.io/badge/★%20Stars-1.5k-blue?style=flat-square&logo=github)
-![Commits Last Year](https://img.shields.io/badge/Commits-1358-blue?style=flat-square&logo=git)
+![Commits Last Year](https://img.shields.io/badge/Commits-1380-blue?style=flat-square&logo=git)
 
 - 👋 Hi, I'm **Danny**, a fullstack web developer focused on **software craftsmanship**
 - 🛠️ I work daily with **Angular 20**, **Node.js**, **TypeScript**, and **Java 21**
