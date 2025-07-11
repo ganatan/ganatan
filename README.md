@@ -4,8 +4,9 @@
 ![GitHub Stars](https://img.shields.io/badge/★%20Stars-1.5k-blue?style=flat-square&logo=github)
 ![Commits Last Year](https://img.shields.io/badge/Commits-1548-blue?style=flat-square&logo=git)
 
-- 👨‍💻 **Freelance Fullstack Developer** · Angular 20 · Node.js · Java 21 · AI (LLM, Voice, Avatar)  
-- 🧠 Building AI demos: podcast automation · LLM comparison · voice & avatar generation  
+- 🧑‍💻 **Freelance Fullstack Developer** · Angular 20 · Node.js · Java 21 · AI (ChatGPT, Claude, ElevenLabs, JoggAI)
+- 🤖 Building AI demos: podcast automation · LLM comparison · voice synthesis (ElevenLabs) · avatar animation (JoggAI)
+
 - ⭐ **800+ stars** on angular-app – modern fullstack starter for Angular & AI  
 - 📅 **Available for freelance missions – Sept. 2025**
 - 🌐 [Portfolio](https://www.ganatan.com) • 🐳 [Docker Hub](https://hub.docker.com/u/ganatan)  
