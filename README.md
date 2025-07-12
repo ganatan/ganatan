@@ -5,7 +5,7 @@
 ![Commits Last Year](https://img.shields.io/badge/Commits-1563-blue?style=flat-square&logo=git)
 
 - 🧑‍💻 **Freelance Fullstack Developer** · Angular 20 · Node.js (TS+JS) · Java 21 · Spring Boot · AI (GPT-4 / Claude 3.5)
-🤖 Building AI demos:• Podcast automation · LLM comparison • Voice synthesis (ElevenLabs) · Avatar animation (JoggAI)
-⭐ 800+ stars on `angular-app` · Fullstack Angular & AI Starter  
-📅 Available for freelance missions – **Sept. 2025**  
-🌐 [Portfolio](#) · 🐳 [Docker Hub](#) · 📘 [Tutorials](#) · 💼 [LinkedIn](#)
+- 🤖 Building AI demos:• Podcast automation · LLM comparison • Voice synthesis (ElevenLabs) · Avatar animation (JoggAI)
+- ⭐ 800+ stars on `angular-app` · Fullstack Angular & AI Starter  
+- 📅 Available for freelance missions – **Sept. 2025**  
+- 🌐 [Portfolio](#) · 🐳 [Docker Hub](#) · 📘 [Tutorials](#) · 💼 [LinkedIn](#)
