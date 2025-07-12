@@ -9,4 +9,4 @@
 - ⭐ 800+ stars on `angular-app` · Fullstack Angular & AI Starter  
 - 📅 Available for freelance missions – **Sept. 2025**  
 - 🌐 [Portfolio](https://www.ganatan.com) • 🐳 [Docker Hub](https://hub.docker.com/u/ganatan)  
-- 📘 [Tutorials](https://www.ganatan.com/tutorials) • 💼 [LinkedIn](https://www.linkedin.com/in/dannyganatan)
+- 📘 [Tutorials](https://www.ganatan.com/en/tutorials) • 💼 [LinkedIn](https://www.linkedin.com/in/dannyganatan)
