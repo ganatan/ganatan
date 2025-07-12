@@ -8,4 +8,5 @@
 - 🤖 Building AI demos:• Podcast automation · LLM comparison • Voice synthesis (ElevenLabs) · Avatar animation (JoggAI)
 - ⭐ 800+ stars on `angular-app` · Fullstack Angular & AI Starter  
 - 📅 Available for freelance missions – **Sept. 2025**  
-- 🌐 [Portfolio](#) · 🐳 [Docker Hub](#) · 📘 [Tutorials](#) · 💼 [LinkedIn](#)
+- 🌐 [Portfolio](https://www.ganatan.com) • 🐳 [Docker Hub](https://hub.docker.com/u/ganatan)  
+- 📘 [Tutorials](https://www.ganatan.com/tutorials) • 💼 [LinkedIn](https://www.linkedin.com/in/dannyganatan)
