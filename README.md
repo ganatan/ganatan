@@ -2,7 +2,7 @@
 
 ![GitHub Followers](https://img.shields.io/badge/Followers-438-blue?style=flat-square&logo=github)
 ![GitHub Stars](https://img.shields.io/badge/★%20Stars-1.5k-blue?style=flat-square&logo=github)
-![Commits Last Year](https://img.shields.io/badge/Commits-1594-blue?style=flat-square&logo=git)
+![Commits Last Year](https://img.shields.io/badge/Commits-1609-blue?style=flat-square&logo=git)
 
 - 🧑‍💻 **Freelance Fullstack Developer** · Angular 20 · Node.js · Java 21 · Spring Boot • AI Integration (OpenAI, Claude)
 - 🤖 Building AI demos:• Podcast automation · LLM comparison • Voice synthesis (ElevenLabs) · Avatar animation (JoggAI)
