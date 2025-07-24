@@ -10,5 +10,4 @@
 - 🤖 AI Integration: OpenAI (GPT) · Claude · ElevenLabs · JoggAI  
 - 🧪 Quality & Testing: Cypress · Jest · Postman · Swagger
 - 📅 Available for freelance missions – **Sept. 2025**  
-- 🌐 [Portfolio](https://www.ganatan.com) • 🐳 [Docker Hub](https://hub.docker.com/u/ganatan)  
-- 📘 [Tutorials](https://www.ganatan.com/en/tutorials) • 💼 [LinkedIn](https://www.linkedin.com/in/dannyganatan)
+- 🌐 [Portfolio](https://www.ganatan.com) • 🐳 [Docker Hub](https://hub.docker.com/u/ganatan)  - 📘 [Tutorials](https://www.ganatan.com/en/tutorials) • 💼 [LinkedIn](https://www.linkedin.com/in/dannyganatan)
