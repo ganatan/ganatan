@@ -7,5 +7,4 @@
 - 🧑‍💻 **Fullstack Developer** — Angular 20 · Node.js · Java 21 · Spring Boot  
 - ⚙️ DevOps & CI/CD: Docker · GitLab CI · OpenShift · SonarQube · ELK · Grafana · Prometheus
 - 🤖 AI Integration: OpenAI (GPT) · Claude · ElevenLabs · JoggAI  
-- 🧪 Quality & Testing: Cypress · Jest · Postman · Swagger
 - 🌐 [Portfolio](https://www.ganatan.com) • 🐳 [Docker Hub](https://hub.docker.com/u/ganatan) • 📘 [Tutorials](https://www.ganatan.com/en/tutorials) • 💼 [LinkedIn](https://www.linkedin.com/in/dannyganatan) • 🎥 [YouTube](https://www.youtube.com/@ganatan)
