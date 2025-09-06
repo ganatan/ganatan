@@ -1,7 +1,9 @@
 <img src="./ui/ganatan-about-github.png" align="right" width="70" height="70" alt="logo ganatan">
+
 ![GitHub Followers](https://img.shields.io/badge/Followers-441-blue?style=flat-square&logo=github)
 ![GitHub Stars](https://img.shields.io/badge/★%20Stars-1.5k-blue?style=flat-square&logo=github)
-![Commits Last Year](https://img.shields.io/badge/Commits-1690-blue?style=flat-square&logo=git)
+![Commits Last Year](https://img.shields.io/badge/Commits-1692-blue?style=flat-square&logo=git)
+
 - 🧑‍💻 **Fullstack Developer** — Angular 20 · Node.js · Java 21 · Spring Boot  
 - ⚙️ DevOps & CI/CD — Docker · GitLab CI · OpenShift · Redis · ELK · Grafana · Prometheus
 - 🤖 AI Integration — OpenAI (GPT) · Claude · ElevenLabs · JoggAI  
