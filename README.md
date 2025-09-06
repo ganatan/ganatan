@@ -5,8 +5,8 @@
 ![Commits Last Year](https://img.shields.io/badge/Commits-1679-blue?style=flat-square&logo=git)
 
 
-- 🧑‍💻 **Fullstack Developer** — Angular 20 · Node.js · Java 21 · Spring Boot  
-- ⚙️ DevOps & CI/CD: Docker · GitLab CI · OpenShift · SonarQube · ELK · Grafana · Prometheus  
-- 🤖 AI Integration: OpenAI (GPT) · Claude · ElevenLabs · JoggAI 
+- 🧑‍💻 **Fullstack Developer** — Angular 20 · Node.js · Java 21 · Spring Boot
+- ⚙️ DevOps & CI/CD: Docker · GitLab CI · OpenShift · SonarQube · ELK · Grafana · Prometheus
+- 🤖 AI Integration: OpenAI (GPT) · Claude · ElevenLabs · JoggAI
 
 - 🌐 [Portfolio](https://www.ganatan.com) • 🐳 [Docker Hub](https://hub.docker.com/u/ganatan) • 📘 [Tutorials](https://www.ganatan.com/en/tutorials) • 💼 [LinkedIn](https://www.linkedin.com/in/dannyganatan) • 🎥 [YouTube](https://www.youtube.com/@ganatan)
