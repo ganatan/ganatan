@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 Main Project — [angular-node-java-ai](https://github.com/ganatan/angular-node-java-ai) [![GitHub Repo stars](https://img.shields.io/github/stars/ganatan/angular-node-java-ai?style=flat-square&logo=github)](https://github.com/ganatan/angular-node-java-ai/stargazers)
+## 🚀 Main Project — [angular-node-java-ai](https://github.com/ganatan/angular-node-java-ai) [![Stars](https://img.shields.io/github/stars/ganatan/angular-node-java-ai?label=Stars&style=flat-square&logo=github&logoColor=white)](https://github.com/ganatan/angular-node-java-ai/stargazers)
 
 A complete **fullstack starter** showing how to:  
 - Build with **Angular 20** (SSR, routing, PWA, Bootstrap)  
