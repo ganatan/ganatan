@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 Main Project — [angular-node-java-ai](https://github.com/ganatan/angular-node-java-ai) [![GitHub Repo stars](https://img.shields.io/github/stars/ganatan/angular-node-java-ai?style=flat-square&logo=github)](https://github.com/ganatan/angular-node-java-ai/stargazers)
+## 🚀 Main Project — [angular-node-java-ai](https://github.com/ganatan/angular-node-java-ai)
 
 A complete **fullstack starter** showing how to:  
 - Build with **Angular 20** (SSR, routing, PWA, Bootstrap)  
@@ -16,7 +16,7 @@ A complete **fullstack starter** showing how to:
 - Run **CI/CD pipelines** with **Docker + GitLab**, monitor with **ELK, Grafana, Prometheus**  
 - Experiment with **AI** (GPT, Claude, ElevenLabs, JoggAI, RAG/Qdrant)  
 
-📘 [Tutorials](https://www.ganatan.com/en/tutorials) • 🎥 [YouTube](https://www.youtube.com/@ganatan) • 🐳 [Docker Hub](https://hub.docker.com/u/ganatan)  
+[![GitHub Repo stars](https://img.shields.io/github/stars/ganatan/angular-node-java-ai?style=flat-square&logo=github)](https://github.com/ganatan/angular-node-java-ai/stargazers) • 📘 [Tutorials](https://www.ganatan.com/en/tutorials) • 🎥 [YouTube](https://www.youtube.com/@ganatan) • 🐳 [Docker Hub](https://hub.docker.com/u/ganatan)  
 
 ---
 
