@@ -1,8 +1,6 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/Followers-444-blue?style=flat-square&logo=github" />
-  <img src="https://img.shields.io/badge/★%20Stars-1.6k-blue?style=flat-square&logo=github" />
-  <img src="https://img.shields.io/badge/Commits-1922-blue?style=flat-square&logo=git" />
-</p>
+<img src="https://img.shields.io/badge/Followers-444-blue?style=flat-square&logo=github" />
+<img src="https://img.shields.io/badge/★%20Stars-1.6k-blue?style=flat-square&logo=github" />
+<img src="https://img.shields.io/badge/Commits-1922-blue?style=flat-square&logo=git" />
 
 ---
 
@@ -17,8 +15,6 @@ A complete **fullstack starter** showing how to:
 - Experiment with **AI** (GPT, Claude, ElevenLabs, JoggAI, RAG/Qdrant)  
 
 📘 [Tutorials](https://www.ganatan.com/en/tutorials) • 🎥 [YouTube](https://www.youtube.com/@ganatan) • 🐳 [Docker Hub](https://hub.docker.com/u/ganatan)  
-
-👉 [View the project](https://github.com/ganatan/angular-node-java-ai)
 
 ---
 
