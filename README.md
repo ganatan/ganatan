@@ -5,7 +5,7 @@
 - Connect to **PostgreSQL, MySQL, Oracle**, with **Redis** for caching  
 - Integrate **RabbitMQ / Kafka** for async messaging  
 - Run **CI/CD pipelines** with **Docker + GitLab**, monitor with **ELK, Grafana, Prometheus**  
-- Experiment with **AI** (**OpenAI** GPT API, **Anthropic** Claude API, **ElevenLabs**, **JoggAI**, **RAG/Qdrant**)
+- Experiment with **AI** (**OpenAI** GPT API, **Anthropic** Claude API, **ElevenLabs**, **JoggAI**, **RAG**, **Qdrant**)
 
 Built on [fullstack-starters](https://github.com/ganatan/fullstack-starters) **prototypes** (Angular, Node.js, Spring Boot) 
 
