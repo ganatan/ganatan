@@ -1,6 +1,6 @@
 ## 🚀 Main project — [angular-node-java-ai](https://github.com/ganatan/angular-node-java-ai) <sub><img src="https://img.shields.io/badge/★%20stars-808-blue?style=flat&logo=github&logoColor=white" /></sub>
 
-- Build with **Angular 20** (SSR, routing, Lazy loading, PWA, Bootstrap)  
+- Build with **Angular 20** (Routing, Lazy loading, SSR, PWA, Bootstrap)  
 - Use **Node.js (JavaScript/TypeScript)** and **Java Spring Boot 21** backends  
 - Connect to **PostgreSQL, MySQL, Oracle**, with **Redis** for caching  
 - Integrate **RabbitMQ / Kafka** for async messaging  
