@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 Main Project — [angular-node-java-ai](https://github.com/ganatan/angular-node-java-ai) • ⭐ 808
+## 🚀 Main Project — [angular-node-java-ai](https://github.com/ganatan/angular-node-java-ai) · stars 808
 
 A complete **fullstack starter** showing how to:  
 - Build with **Angular 20** (SSR, routing, PWA, Bootstrap)  
