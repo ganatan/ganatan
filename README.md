@@ -1,6 +1,5 @@
-## 🚀 Main Project — [angular-node-java-ai](https://github.com/ganatan/angular-node-java-ai) <sub><img src="https://img.shields.io/badge/stars-808-blue?style=flat&logo=github&logoColor=white" /></sub>
+## 🚀 Fullstack starter — [angular-node-java-ai](https://github.com/ganatan/angular-node-java-ai) <sub><img src="https://img.shields.io/badge/stars-808-blue?style=flat&logo=github&logoColor=white" /></sub>
 
-A complete **fullstack starter** showing how to:  
 - Build with **Angular 20** (SSR, routing, Lazy loading, PWA, Bootstrap)  
 - Use **Node.js (JavaScript/TypeScript)** and **Java Spring Boot 21** backends  
 - Connect to **PostgreSQL, MySQL, Oracle**, with **Redis** for caching  
