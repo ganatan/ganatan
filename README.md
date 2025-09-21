@@ -11,16 +11,18 @@
 ## 🚀 Featured Project — [angular-node-java-ai](https://github.com/ganatan/angular-node-java-ai)
 
 This repository is a starter showcasing a **fullstack setup** with modern tools:  
-- **Frontend**: Angular 20 (SSR, routing, Bootstrap)  
+- **Frontend**: Angular 20 (SSR, routing, PWA, Bootstrap)  
 - **Backend**: Node.js (JavaScript/TypeScript) and Java Spring Boot 21  
-- **Database**: PostgreSQL, Redis integration  
-- **DevOps**: Docker, GitLab CI/CD pipelines, basic monitoring with ELK + Grafana + Prometheus  
+- **Database**: PostgreSQL, MySQL, Oracle  
+- **DevOps**: Docker, GitLab CI/CD pipelines, monitoring with ELK + Grafana + Prometheus  
+- **Messaging**: RabbitMQ, Kafka  
 - **AI**: GPT (OpenAI), Claude (Anthropic), ElevenLabs (voice), JoggAI (avatars), RAG with Qdrant  
 
 The goal of this project is to provide a **practical example** of:  
 - Combining Angular with Node.js and Java backends  
 - Building and exposing REST APIs  
 - Running CI/CD pipelines with Docker  
+- Using RabbitMQ and Kafka for asynchronous communication  
 - Experimenting with AI integration in a fullstack context  
 
 👉 [View the project](https://github.com/ganatan/angular-node-java-ai)
