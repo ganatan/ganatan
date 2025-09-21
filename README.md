@@ -5,9 +5,7 @@
 
 ---
 
-## 🚀 Main Project — [angular-node-java-ai](https://github.com/ganatan/angular-node-java-ai)
-
-[![GitHub Repo stars](https://img.shields.io/github/stars/ganatan/angular-node-java-ai?style=for-the-badge&logo=github)](https://github.com/ganatan/angular-node-java-ai/stargazers)
+## 🚀 Main Project — [angular-node-java-ai](https://github.com/ganatan/angular-node-java-ai) [![GitHub Repo stars](https://img.shields.io/github/stars/ganatan/angular-node-java-ai?style=flat-square&logo=github)](https://github.com/ganatan/angular-node-java-ai/stargazers)
 
 <img src="./ui/ganatan-about-github.png" align="left" width="70" height="70" alt="logo ganatan" style="margin-right:10px" />
 
