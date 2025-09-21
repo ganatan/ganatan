@@ -10,4 +10,4 @@ A complete **fullstack starter** showing how to:
 
 This project is built on top of [fullstack-starters](https://github.com/ganatan/fullstack-starters), a collection of **prototypes** (Angular, Node.js, Spring Boot) 
 
-<sub>📘 [Tutorials](https://www.ganatan.com/en/tutorials) • 🎥 [YouTube](https://www.youtube.com/@ganatan) • 🐳 [Docker Hub](https://hub.docker.com/u/ganatan) • <img src="https://img.shields.io/badge/Followers-444-blue?style=flat&logo=github" /> <img src="https://img.shields.io/badge/★%20Stars-1.6k-blue?style=flat&logo=github" /> <img src="https://img.shields.io/badge/Commits-1922-blue?style=flat&logo=git" /></sub>
+📘 [Tutorials](https://www.ganatan.com/en/tutorials) • 🎥 [YouTube](https://www.youtube.com/@ganatan) • 🐳 [Docker Hub](https://hub.docker.com/u/ganatan) • <sub><img src="https://img.shields.io/badge/Followers-444-blue?style=flat&logo=github" /> <img src="https://img.shields.io/badge/★%20Stars-1.6k-blue?style=flat&logo=github" /> <img src="https://img.shields.io/badge/Commits-1922-blue?style=flat&logo=git" /></sub>
