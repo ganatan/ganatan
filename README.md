@@ -1,6 +1,6 @@
 <img src="./ui/ganatan-about-github.png" align="right" width="70" height="70" alt="logo ganatan">
 
-![GitHub Followers](https://img.shields.io/badge/Followers-444-blue?style=flat-square&logo=github) ![GitHub Stars](https://img.shields.io/badge/★%20Stars-1.6k-blue?style=flat-square&logo=github) ![Commits Last Year](https://img.shields.io/badge/Commits-1922-blue?style=flat-square&logo=git)
+![GitHub Followers](https://img.shields.io/badge/Followers-444-blue?style=flat&logo=github) ![GitHub Stars](https://img.shields.io/badge/★%20Stars-1.6k-blue?style=flat&logo=github) ![Commits Last Year](https://img.shields.io/badge/Commits-1922-blue?style=flat&logo=git)
 
 ---
 
