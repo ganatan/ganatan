@@ -3,7 +3,7 @@
 - Build with **Angular 20** (Routing, Lazy loading, SSR, PWA, Bootstrap)  
 - Use **Node.js (JavaScript/TypeScript)** and **Java Spring Boot 21** backends  
 - Connect to **PostgreSQL, MySQL, Oracle**  
-- Run CI/CD pipelines with **Docker + GitLab**, deploy on **OpenShift/Kubernetes**, monitor with **ELK, Grafana, Prometheus**
+- Run CI/CD pipelines with **Docker + GitLab**, deploy on **OpenShift/Kubernetes**
 - Experiment with **AI** (**OpenAI** , **Anthropic**, **ElevenLabs**, **JoggAI**)
 
 Built on [starters](https://github.com/ganatan/starters) **prototypes** (Angular, Node.js, Spring Boot) 
