@@ -1,4 +1,4 @@
-## 🚀 Main project — [angular-node-java-ai](https://github.com/ganatan/angular-node-java-ai) — <sub><img src="https://img.shields.io/badge/★%20stars-812-blue?style=flat&logo=github&logoColor=white" /></sub>
+## 🚀 Main project — [angular-node-java-ai](https://github.com/ganatan/angular-node-java-ai) — <sub><img src="https://img.shields.io/badge/★%20stars-813-blue?style=flat&logo=github&logoColor=white" /></sub>
 
 - Build with **Angular 20** (Routing, Lazy loading, SSR, PWA, Bootstrap)  
 - Use **Node.js (JavaScript/TypeScript)** and **Spring Boot** backends  
@@ -7,4 +7,4 @@
 
 Built on [starters](https://github.com/ganatan/starters) **prototypes** (Angular, Node.js, Spring Boot) 
 
-📘 [Tutorials](https://www.ganatan.com/en/tutorials) • 🎥 [YouTube](https://www.youtube.com/@ganatan) • 🐳 [Docker Hub](https://hub.docker.com/u/ganatan) • <sub><img src="https://img.shields.io/badge/Followers-450-blue?style=flat&logo=github" /> <img src="https://img.shields.io/badge/★%20Stars-1.6k-blue?style=flat&logo=github" /> <img src="https://img.shields.io/badge/Commits-2216-blue?style=flat&logo=git" /></sub>
+📘 [Tutorials](https://www.ganatan.com/en/tutorials) • 🎥 [YouTube](https://www.youtube.com/@ganatan) • 🐳 [Docker Hub](https://hub.docker.com/u/ganatan) • <sub><img src="https://img.shields.io/badge/Followers-449-blue?style=flat&logo=github" /> <img src="https://img.shields.io/badge/★%20Stars-1.6k-blue?style=flat&logo=github" /> <img src="https://img.shields.io/badge/Commits-2218-blue?style=flat&logo=git" /></sub>
