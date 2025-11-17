@@ -4,8 +4,7 @@
 - Use **Node.js (JavaScript/TypeScript)** and **Spring Boot** backends  
 - Run CI/CD pipelines with **Docker + GitLab**, deploy on **OpenShift/Kubernetes**
 - Experiment with **AI** (**OpenAI** , **Anthropic**, **ElevenLabs**, **JoggAI**)
-- Develop **desktop applications** with **Electron (Angular + Node.js)**
-- Develop **mobile applications** with **Ionic + Capacitor (Android/iOS)**
+- Develop **desktop & mobile applications** with **Electron** and **Ionic + Capacitor** (Angular)
 
 Built on [starters](https://github.com/ganatan/starters) **prototypes** (Angular, Node.js, Spring Boot) 
 
