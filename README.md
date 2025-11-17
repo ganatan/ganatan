@@ -1,4 +1,4 @@
-## 🚀 Main project — [angular-node-java-ai](https://github.com/ganatan/angular-node-java-ai) — <sub><img src="https://img.shields.io/badge/★%20stars-814-blue?style=flat&logo=github&logoColor=white" /></sub>
+## 🚀 Main project — [angular-node-java-ai](https://github.com/ganatan/angular-node-java-ai) — <sub><img src="https://img.shields.io/badge/★%20stars-815-blue?style=flat&logo=github&logoColor=white" /></sub>
 
 - Build with **Angular 20** (Routing, Lazy loading, SSR, PWA, Bootstrap)  
 - Use **Node.js (JavaScript/TypeScript)** and **Spring Boot** backends  
