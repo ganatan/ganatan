@@ -4,4 +4,4 @@
 - Run CI/CD pipelines with **Docker + GitLab**, deploy on **OpenShift/Kubernetes**
 - Experiment with **AI** (**OpenAI** , **Anthropic**, **ElevenLabs**, **JoggAI**)
 
-📘 [Tutorials](https://www.ganatan.com/en/tutorials) • 🎥 [YouTube](https://www.youtube.com/@ganatan) • <sub><img src="https://img.shields.io/badge/Followers-444-blue?style=flat&logo=github" /> <img src="https://img.shields.io/badge/★%20Stars-1.6k-blue?style=flat&logo=github" /> </sub>
+📘 [Tutorials](https://www.ganatan.com/en/tutorials) • 🎥 [YouTube](https://www.youtube.com/@ganatan) • <sub><img src="https://img.shields.io/badge/Followers-445-blue?style=flat&logo=github" /> <img src="https://img.shields.io/badge/★%20Stars-1.6k-blue?style=flat&logo=github" /> </sub>
