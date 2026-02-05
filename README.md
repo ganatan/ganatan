@@ -1,4 +1,4 @@
-## 🚀 Main project — [angular-node-java-ai](https://github.com/ganatan/angular-node-java-ai) —
+## 🚀 Main project — [angular-node-java-ai](https://github.com/ganatan/angular-node-java-ai)
 
 - Build with **Angular** & Use **Node.js (JavaScript/TypeScript)** and **Spring Boot** backends  
 - Run CI/CD pipelines with **Docker + GitLab**, deploy on **OpenShift/Kubernetes**
